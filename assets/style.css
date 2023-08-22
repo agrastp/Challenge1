@@ -54,7 +54,7 @@ nav a {
     background-position: center;
 }
 
-/*Main Content in middle of page*/
+/*Middle Sections of webpage*/
 
 p {
     font-size: 16px;
@@ -123,7 +123,7 @@ aside img {
     max-width: 150px;
 }
 
-
+/* Footer Styling*/
 
 footer {
     padding: 30px;
