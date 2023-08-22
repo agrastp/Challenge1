@@ -12,7 +12,7 @@ N/A
 
 This project can be used as a great demonstration of how to use semantic language in html, how to order information in a logical manner, how to apply class/ID selctors, and how to consolidate code so it is easier to navigate.  Code smarter, not harder!
 
-![Webpage Example]([/images/Webpage-Layout.jpg)raw=true "Webpage Example")
+![Webpage Example]([images/Webpage-Layout.jpg?raw=true "Webpage Example")
 
 
 ## Credits
